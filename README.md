@@ -61,10 +61,10 @@ sistema_cadastro/
 ## 👥 Desenvolvedores
 
 - **Tiago Ferreira da Silva**  
-  [GitHub: Tiago Ferreira da Silva](https://github.com/)
+  [GitHub: Tiago Ferreira da Silva](https://github.com/FrrTiago)
 
 - **Renato Xavier Portela Giordano**  
-  [GitHub: Renato Xavier Portela Giordano](https://github.com/)
+  [GitHub: Renato Xavier Portela Giordano](https://github.com/aluno-renato)
 
 ---
 
