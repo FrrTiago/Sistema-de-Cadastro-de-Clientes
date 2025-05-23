@@ -41,10 +41,14 @@ python main.py
 
 ```
 sistema_cadastro/
-├── cliente.py              # Classe Cliente
-├── sistema_cadastro.py     # Classe SistemaCadastro
-├── main.py                 # Arquivo principal com o menu de interação
-└── README.md               # Este arquivo
+│
+├── main.py                        # Interface do menu principal
+│
+├── pessoa.py                     # Classe abstrata Pessoa (abstração)
+├── cliente.py                    # Classe Cliente que herda de Pessoa
+├── funcionario.py                # Classe Funcionario que herda de Pessoa
+│
+├── sistema_cadastro.py           # SistemaCadastro manipula objetos Pessoa (polimorfismo)
 ```
 
 ---
